@@ -1,0 +1,22 @@
+{
+  "root_dir": "K:\\www",
+  "backup_dir": "F:\\2026备份",
+  "depth": 3,
+  "calc_size": true,
+  "mysqldump_path": "D:\\phpstudy_pro\\Extensions\\MySQL5.7.26\\bin\\mysqldump.EXE",
+  "compresslevel": 6,
+  "verify_zip": true,
+  "exclude_dirs": [
+    ".git",
+    ".svn",
+    "node_modules",
+    "cache",
+    "upgrade"
+  ],
+  "exclude_globs": [
+    "*.tmp",
+    "*.log",
+    "Thumbs.db",
+    ".DS_Store"
+  ]
+}
